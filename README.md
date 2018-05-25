@@ -1,20 +1,6 @@
 Libreria_Devkit_NXTIoT
 ======================
 
--	[Introducción](#introducción)
+La libreria "NXTIoT_dev.h" asi como códigos de ejemplo fueron desarrollados especificamente para el Devkit de NXTIoT. Se realizarán actualizaciones para agregar mas funciones o corregir bugs que pudieran surgir. 
 
--	[Instalación](#instalación)
-
--	[Código Base](#código-base)
-
-Introducción
-------------
-
-En este repositorio se muestra el proceso de instalación de la libreria "NXTIoT_dev.h" asi como códigos de ejemplo sobre su uso.
-
-Instalación
------------
-
-Código Base
------------
 
